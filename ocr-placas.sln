@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ocr-placas", "ocr-placas\ocr-placas.csproj", "{D2B24212-8217-42E5-AC0B-19D7991DC911}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2B24212-8217-42E5-AC0B-19D7991DC911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B24212-8217-42E5-AC0B-19D7991DC911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B24212-8217-42E5-AC0B-19D7991DC911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B24212-8217-42E5-AC0B-19D7991DC911}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72D6060B-23EF-469F-AA0F-C657D61338D5}
+	EndGlobalSection
+EndGlobal

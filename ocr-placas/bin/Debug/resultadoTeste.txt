@@ -1,0 +1,6 @@
+ALE4378 || ALE4378 || certo
+AXX1773 || AXX1773 || certo
+AZJ4246 || AZJ4246 || certo
+Do total de 3 arquivos, dos quais 3 eram imagens, foi verificado o seguinte resultado :
+3 placas foram encontradas em 3 imagens.
+3 ocr's foram realizadas corretamente de um total de 3 placas encontradas. *Lembrando que é considerada correta se a leitura da OCR foi a mesma do nome do Arquivo.

@@ -1,0 +1,12 @@
+c:\users\dell\source\repos\ocr-placas\ocr-placas\bin\Debug\ocr-placas.exe.config
+c:\users\dell\source\repos\ocr-placas\ocr-placas\bin\Debug\ocr-placas.exe
+c:\users\dell\source\repos\ocr-placas\ocr-placas\bin\Debug\ocr-placas.pdb
+c:\users\dell\source\repos\ocr-placas\ocr-placas\bin\Debug\openalpr-net.dll
+c:\users\dell\source\repos\ocr-placas\ocr-placas\obj\Debug\ocr-placas.csprojAssemblyReference.cache
+c:\users\dell\source\repos\ocr-placas\ocr-placas\obj\Debug\ocr_placas.Form1.resources
+c:\users\dell\source\repos\ocr-placas\ocr-placas\obj\Debug\ocr_placas.Properties.Resources.resources
+c:\users\dell\source\repos\ocr-placas\ocr-placas\obj\Debug\ocr-placas.csproj.GenerateResource.cache
+c:\users\dell\source\repos\ocr-placas\ocr-placas\obj\Debug\ocr-placas.csproj.CoreCompileInputs.cache
+c:\users\dell\source\repos\ocr-placas\ocr-placas\obj\Debug\ocr-placas.csproj.CopyComplete
+c:\users\dell\source\repos\ocr-placas\ocr-placas\obj\Debug\ocr-placas.exe
+c:\users\dell\source\repos\ocr-placas\ocr-placas\obj\Debug\ocr-placas.pdb
