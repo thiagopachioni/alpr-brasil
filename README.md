@@ -1,5 +1,5 @@
 # alpr-brasil
-Integração do sdk ALPR em uma aplicação de windows form.
+Integração do sdk ALPR (https://github.com/openalpr/openalpr) em uma aplicação de windows form. Todos os arquivos de treinamento do ALPR foram tirados do GIT. 
 
 ![Alt text](/print.png?raw=true "Print do Sistema")
 
